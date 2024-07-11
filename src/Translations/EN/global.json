@@ -1,5 +1,9 @@
 {
     "header": {
         "message":"Welcome to Villas Tiquisia"
+    },
+    "activities":{
+        "act1__title":"Arenal Volcano",
+        "act1__desc":"The arenal volcano"
     }
 }
