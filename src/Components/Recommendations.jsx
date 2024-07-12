@@ -1,6 +1,4 @@
 import React from 'react'
-import whats from '../Images/whatsapp.png'
-import call from '../Images/call.png'
 import { useTranslation } from 'react-i18next';
 function recommendations(){
     const [t, i18n] = useTranslation("global");

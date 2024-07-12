@@ -9,5 +9,8 @@
     "location":{
         "title":"Our Location",
         "text":"We are located 2.3km from La Fortuna."
+    },
+    "footer":{
+        "popup":"Email copied to clipboard!"
     }
 }

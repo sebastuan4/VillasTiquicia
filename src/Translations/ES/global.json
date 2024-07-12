@@ -9,5 +9,8 @@
     "location":{
         "title":"Nuestra ubicacion",
         "text":"Estamos localizados a 2.3km del centro de la fortuna"
+    },
+    "footer":{
+        "popup":"¡Correo copiado a la papelera!"
     }
 }
