@@ -4,8 +4,26 @@
     },
     "activities":{
         "act1__title":"Volcan Arenal",
-        "act1__desc":"El Volcan Arenal"
-    },
+        "act1__desc":"La imponencia del volcán Arenal es innegable y esto es en lo primero que pensamos al visitar La Fortuna de San Carlos, donde se ubica esta maravilla natural. Quien visite esta área protegida no debe perderse, además, las coladas de lava que bajaron en 1992, el impresionante árbol de ceiba con más de 400 años de antigüedad y los senderos a lo largo de un extenso y auténtico bosque lluvioso, donde puede apreciar la vida silvestre y los recursos que el Parque protege.",
+        "act1__distance":"Distancia: 7.6km | 16 min ",
+        "act2__title":"Parque Mistico",
+        "act2__desc":"El parque ofrece a los visitantes una oportunidad única de explorar el dosel de la selva tropical cruzando una serie de puentes colgantes suspendidos a gran altura sobre el suelo de la selva. Estos puentes ofrecen impresionantes vistas panorámicas de la selva y sus habitantes, como aves exóticas, monos y otros animales salvajes.",
+        "act2__distance":"Distancia: 22.2km | 34 min ",
+        "act3__title":"La mano del Arenal",
+        "act3__desc":"Una obra del escultor Marco Antonio Gonzáles, cuenta con una hermosa vista al lago del Arenal a una altura de 1057 metros, la intencion de este parque es contar la historia del gigante del monte, para poder llegar a la mano se puede por medio de cannopy o teleférico.",
+        "act3__distance":"Distancia: 22.2km | 34 min ",
+        "food1__title":"Restaurante Tiquicia",
+        "food1__desc":"Este restaurante cuenta con 5 estrellas en Trip Advisor con un total de 1929 reseñas, cuenta con comida tipica",
+        "food1__distance":"Distancia: 3.5km | 7 min ",
+        "food2__title":"Restaurante Herbario",
+        "food2__desc":"Este restaurante cuenta con 5 estrellas en Trip Advisor con un total de 87 reseñas, cuenta con comida internacional",
+        "food2__distance":"Distancia: 2.9km | 6 min ",
+        "food3__title":"Soda & Restaurante Rodríguez",
+        "food3__desc":"Este restaurante cuenta con 5 estrellas en Trip Advisor con un total de 862 reseñas, cuenta con comida tipica y adicionalmente una tematica con carteles que vale la pena ver.",
+        "food3__distance":"Distancia: 2.7km | 6 min ",
+        "maps":"Miralo en Google Maps",
+        "menu":"menú"
+    },  
     "location":{
         "title":"Nuestra ubicacion",
         "text":"Estamos localizados a 2.3km del centro de la fortuna"
