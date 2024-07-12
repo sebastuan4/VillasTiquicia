@@ -5,5 +5,9 @@
     "activities":{
         "act1__title":"Arenal Volcano",
         "act1__desc":"The arenal volcano"
+    },
+    "location":{
+        "title":"Our Location",
+        "text":"We are located 2.3km from La Fortuna."
     }
 }

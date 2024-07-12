@@ -5,5 +5,9 @@
     "activities":{
         "act1__title":"Volcan Arenal",
         "act1__desc":"El Volcan Arenal"
+    },
+    "location":{
+        "title":"Nuestra ubicacion",
+        "text":"Estamos localizados a 2.3km del centro de la fortuna"
     }
 }
