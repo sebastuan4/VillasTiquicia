@@ -1,7 +1,7 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next';
 function recommendations(){
-    const [t, i18n] = useTranslation("global");
+    const [t] = useTranslation("global");
     function recommendation_change(active){
         if (active == 0){
           document.getElementById("alimentacion").classList.add('active');
@@ -36,7 +36,7 @@ function recommendations(){
                 <h1 className='title'>{t("activities.title")}</h1>
               </div>
               
-              <div className='recommendation_nav row'>
+              <div className='recommendation_nav row__space'>
                 <h2 id='alimentacion' className="active" onClick={() => recommendation_change(0)}>{t("activities.restaurants")}</h2>
                 <h2 id='actividades' onClick={() => recommendation_change(1)}>{t("activities.activities")}</h2>
               </div>

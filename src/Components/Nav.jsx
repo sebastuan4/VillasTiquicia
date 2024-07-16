@@ -25,23 +25,23 @@ const [index,setIndex] = useState(1)
 
     return(
         <>
-            <div className='row'>
-                <div className='logo'>
+            <div className='row__space'>
+                <div className='logo row'>
                     <img src={logo} alt="" />
                 </div>
 
                 <div className='lang-menu column'>
                     <div className='selected-lang row'>
-                        <img src={flags[index]} alt="" />
+                        <img className="flag" src={flags[index]} alt="" />
                         <p>{lenguage[index]}</p>
                     </div>
                     <ul>
                         <li id='en' className='row' onClick={() => handleChangeLanguage("en",0)}>
-                            <img src="https://flagsapi.com/US/flat/32.png" alt="" />
+                            <img className='flag' src="https://flagsapi.com/US/flat/32.png" alt="" />
                             <a>English</a>
                         </li>
                         <li id='es' className='row' onClick={() => handleChangeLanguage("es",1)}>
-                            <img src="https://flagsapi.com/ES/flat/32.png" alt="" />
+                            <img className="flag" src="https://flagsapi.com/ES/flat/32.png" alt="" />
                             <a>Español</a>
                         </li>
                     </ul>
